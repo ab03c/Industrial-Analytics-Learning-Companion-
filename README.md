@@ -7,7 +7,8 @@ This project aims to develop a proactive, OpenAI-powered recommendation tool to 
 
 ## 📷 Screenshots
 
-![GPT Model](Phase-2/GPT%20model.png)
+![GPT Model](https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/GPT%20Model.png)
+
 
 
 ---
