@@ -8,13 +8,7 @@ This project aims to develop a proactive, OpenAI-powered recommendation tool to 
 ## 📷 Screenshots
 
 ### Single Image
-![Alt text for image](images/sample-image.png)
-
-### Multiple Images Side by Side
-<p float="left">
-  <img src="images/image1.png" width="45%" />
-  <img src="images/image2.png" width="45%" />
-</p>
+![Alt text for image](phase-2/GPT model.png)
 
 ---
 
