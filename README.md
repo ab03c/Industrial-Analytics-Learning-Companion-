@@ -5,32 +5,16 @@ This project aims to develop a proactive, OpenAI-powered recommendation tool to 
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshot
 
 ![GPT Model](https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/GPT%20Model.png)
-
-
-
----
-
-## 🚀 Features
-- Feature 1  
-- Feature 2  
-- Feature 3  
 
 ---
 
 ## 🛠️ Tech Stack
-- Tech 1  
-- Tech 2  
-- Tech 3  
+- Custom GPT framework 
 
 ---
 
-## 📦 Installation
-```bash
-# clone the repo
-git clone https://github.com/your-username/your-repo.git
+## 📦 Configuration
 
-# move into the directory
-cd your-repo
