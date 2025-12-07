@@ -8,7 +8,7 @@ This project aims to develop a proactive, OpenAI-powered recommendation tool to 
 ## 📷 Screenshots
 
 ### Single Image
-![Alt text for image](phase-2/GPT model.png)
+![GPT Model](phase-2/GPT%20model.png)
 
 ---
 
