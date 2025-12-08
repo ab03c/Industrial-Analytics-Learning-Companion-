@@ -9,10 +9,10 @@ The objective of this project is to build an interactive AI tool that delivers s
 ## Screenshots
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/GPT%20Model.png" width="250" />
-  <img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(1).png" width="250" />
-  <img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(2).png" width="250" />
-  <img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(3).png" width="250" />
+  <img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/GPT%20Model.png" width="750" />
+  <img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(1).png" width="750" />
+  <img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(2).png" width="750" />
+  <img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(3).png" width="750" />
 </p>
 
 
