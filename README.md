@@ -6,9 +6,12 @@ The Industrial Analytics Learning Companion is an AI-powered educational tool de
 ## Objective
 The objective of this project is to build an interactive AI tool that delivers structured, step-by-step learning in industrial analytics. It is designed especially for students with limited exposure to industry who are still exploring the different functions within each domain and the critical analytics used to evaluate them. The tool guides learners as they navigate to the domain and function of their choice, tailors relevant KPIs and SQL queries, adjusts difficulty levels, and explains the reasoning behind each step helping them build confidence and practical understanding as they develop their analytical skills.
 
-## Screenshot
+## Screenshots
 
 ![GPT Model](https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/GPT%20Model.png)
+![GPT Model](https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(1).png)
+![GPT Model](https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(2).png)
+![GPT Model](https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(3).png)
 
 ## Tech Stack
 - Custom GPT framework 
