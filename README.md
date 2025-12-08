@@ -8,10 +8,14 @@ The objective of this project is to build an interactive AI tool that delivers s
 
 ## Screenshots
 
-![GPT Model](https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/GPT%20Model.png)
-![GPT Model](https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(1).png)
-![GPT Model](https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(2).png)
-![GPT Model](https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(3).png)
+<img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/GPT%20Model.png" width="300">
+
+<img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(1).png" width="300">
+
+<img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(2).png" width="300">
+
+<img src="https://raw.githubusercontent.com/ab03c/Industrial-Analytics-Learning-Companion-/main/Phase-2/Sample%20Workflow(3).png" width="300">
+
 
 ## Tech Stack
 - Custom GPT framework 
