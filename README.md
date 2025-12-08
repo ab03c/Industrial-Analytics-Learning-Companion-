@@ -29,7 +29,7 @@ The objective of this project is to build an interactive AI tool that delivers s
 ## Configuration
 To recreate the Industrial Analytics Learning Companion using OpenAI’s Custom GPT framework, follow the steps below:
 
-1. Open ChatGPT- Start by navigating to the Explore tab in ChatGPT and selecting Create a GPT. Give your model a clear name (e.g., Industrial Analytics Learning Companion) and a concise description that reflects its purpose.
+1. Open ChatGPT- Start by navigating to the Explore tab and selecting Create a GPT. Give your model a clear name (e.g., Industrial Analytics Learning Companion) and a concise description that reflects its purpose.
 
 2. In the Configure panel, add detailed instructional logic under 'Instructions' that defines:
 How the GPT should ask clarifying questions
