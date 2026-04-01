@@ -36,7 +36,7 @@ How the GPT should ask clarifying questions
 How it should guide students step-by-step
 How it should tailor KPIs, domains, functions, and SQL queries
 How to adjust responses based on skill level and explain reasoning
-(These instructions are provided in the Phase-2 folder.) 
+(These instructions are provided in the Final folder.) 
 
 3. Add a list of conversation starters that reflect common student queries. These starters help orient first-time users and expose them to different functions and domains.
 
