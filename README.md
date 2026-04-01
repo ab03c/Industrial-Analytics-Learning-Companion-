@@ -46,9 +46,5 @@ How to adjust responses based on skill level and explain reasoning
 
 6. Once all configurations, instructions, conversation starters, and knowledge files are added, click 'Create' to finalize your custom GPT. You can then make it private, share it via link, or publish it for broader use.
 
-## Next Steps
-1. Introduce messy, real-world datasets including missing values, inconsistencies, and fragmented tables to help students practice realistic data cleaning and preparation workflows.
-2. Add interactive SQL and analytics quizzes to help students assess their understanding at different skill levels.
-3. Improve conversation flows to make guidance more intuitive, context-aware, and aligned with how students naturally explore analytical problems.
-4. Expand the library of scenarios and KPIs to broaden the tool’s coverage and practical relevance.
+
 
